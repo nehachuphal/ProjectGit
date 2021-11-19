@@ -1,0 +1,2 @@
+This file is inside feature1 branch and created using the command git checkout -b feature1 --> this cmd will create a new branch feature1 if it doesn't exixt and switch, Else it will switch if already present.
+
